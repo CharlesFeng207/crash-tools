@@ -1,3 +1,3 @@
 tool_path = r"C:\Users\Charles\App\android-ndk-r19\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-addr2line.exe"
-all_libs = {"libil2cpp":r"C:\Users\Charles\Desktop\Tribal_Age.1.25.0.5796-1.25.0-v5796.symbols\armeabi-v7a\libil2cpp.sym.so", 
+all_libs = {"libil2cpp":r"C:\Users\Charles\Desktop\ProfillingData\Tribal_Age.1.25.0.5850-1.25.0-v5850.symbols\armeabi-v7a\libil2cpp.sym.so", 
             "libunity":r"C:\Program Files\Unity2019.4.30f1c1\Editor\Data\PlaybackEngines\AndroidPlayer\Variations\il2cpp\Release\Libs\armeabi-v7a\libunity.so"}
